@@ -1,0 +1,7 @@
+https://github.com/BrandonBlair/elegantframeworks/tree/unittesting
+https://github.com/BrandonBlair/elegantframeworks/tree/unittesting1
+
+https://tox.readthedocs.io/en/latest/
+
+https://github.com/brandonblair/elegantframeworks/tree/functionaltests
+https://techstepacademy.com/training-ground

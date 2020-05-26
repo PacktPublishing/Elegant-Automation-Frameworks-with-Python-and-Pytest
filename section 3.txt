@@ -1,0 +1,17 @@
+https://docs.pytest.org/en/3.0.1/getting-started.html
+
+https://docs.pytest.org/en/latest/example/markers.html
+
+https://docs.pytest.org/en/latest/fixture.html
+
+https://docs.python.org/3/library/argparse.html
+https://github.com/brandonblair/elegantframeworks/tree/config_recipe
+
+https://docs.pytest.org/en/latest/skipping.html
+
+https://techstepacademy.com/training-ground
+https://docs.pytest.org/en/latest/parametrize.html
+https://github.com/brandonblair/elegantframeworks/tree/parametrize
+
+https://github.com/brandonblair/elegantframeworks/tree/parallel
+https://pypi.org/project/pytest-xdist/
